@@ -1,5 +1,5 @@
 {
-  "title": "nuxt-ssr-app",
+  "title": "nuxt-workbench",
   "meta": [
     {
       "hid": "charset",
@@ -18,7 +18,7 @@
     {
       "hid": "apple-mobile-web-app-title",
       "name": "apple-mobile-web-app-title",
-      "content": "nuxt-ssr-app"
+      "content": "nuxt-workbench"
     },
     {
       "hid": "description",
@@ -35,13 +35,13 @@
       "hid": "og:title",
       "name": "og:title",
       "property": "og:title",
-      "content": "nuxt-ssr-app"
+      "content": "nuxt-workbench"
     },
     {
       "hid": "og:site_name",
       "name": "og:site_name",
       "property": "og:site_name",
-      "content": "nuxt-ssr-app"
+      "content": "nuxt-workbench"
     },
     {
       "hid": "og:description",
@@ -62,7 +62,7 @@
     },
     {
       "rel": "manifest",
-      "href": "/_nuxt/manifest.d1dd1463.json",
+      "href": "/_nuxt/manifest.83037458.json",
       "hid": "manifest"
     }
   ],

@@ -1,6 +1,6 @@
 {
-  "name": "nuxt-ssr-app",
-  "short_name": "nuxt-ssr-app",
+  "name": "nuxt-workbench",
+  "short_name": "nuxt-workbench",
   "description": "## Build Setup",
   "icons": [
     {
