@@ -30,7 +30,7 @@
     "ant-design-vue": "^1.6.5",
     "core-js": "^3.8.1",
     "dayjs": "^1.9.6",
-    "nuxt": "^2.14.9"
+    "nuxt": "^2.14.10"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
