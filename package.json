@@ -29,7 +29,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "ant-design-vue": "^3.2.12",
     "core-js": "^3.27.1",
-    "dayjs": "^1.10.5",
+    "dayjs": "^1.11.7",
     "nuxt": "^2.15.6"
   },
   "devDependencies": {
